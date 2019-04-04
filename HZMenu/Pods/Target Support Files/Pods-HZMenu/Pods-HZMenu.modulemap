@@ -1,0 +1,6 @@
+framework module Pods_HZMenu {
+  umbrella header "Pods-HZMenu-umbrella.h"
+
+  export *
+  module * { export * }
+}
